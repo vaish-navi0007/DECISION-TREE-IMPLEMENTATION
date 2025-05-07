@@ -55,3 +55,6 @@ They are also widely used in ensemble methods like Random Forests and Gradient B
 
 This project showcases a complete pipeline for building and visualizing a Decision Tree model using Scikit-learn. The Iris dataset was ideal for demonstrating the effectiveness of the model due to its simplicity and balanced classes. The use of Jupyter Notebook enabled step-by-step explanations and visualization, making it an educational and insightful machine learning exercise. This implementation serves as a strong foundation for exploring more advanced models or applying decision trees to real-world datasets.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0e93f0d8-93b0-417c-b665-a8d1205315d7)
